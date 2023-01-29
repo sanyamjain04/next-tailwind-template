@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
+npx create-next-app@latest ./ --use-npm --example "https://github.com/sanyamjain04/next-tailwind-template"
 # or
 yarn dev
 # or
